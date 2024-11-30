@@ -1,0 +1,19 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title> LESSON 1 AND 2 BROWSER OUTPUT </title>
+<link rel="stylesheet" href="CSS1.css" type="text/css"/>
+<style type="text/css">
+p{font-family:New Times Roman; color:red; font-size:50px;}
+</style>
+</head>
+<body>
+<h1 style="font-size:100px;font-family:Arial;color:Blue;">
+This is INLINE style </h1>
+<p> EMBEDDED 1 </p>
+<p> EMBEDDED 2 </p>
+<p> EMBEDDED 3 </p>
+<p> The heading tag is inline, paragraph tag is embedded and body is linked :)</p>
+</body>
+</html>

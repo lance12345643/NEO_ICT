@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>i love ict please</title>
+<link rel="stylesheet" href="CSS3.css" type="text/css">
+<style type="text/css";>
+.bottomcolor{color:green;background-color:pink;}
+</style>
+</head>
+<body background="mian.jpeg">
+<h1>Old MacDonald Had a Farm</h1>
+<p><font class="Typo">
+Old MacDonald had a farm
+<br>E-I-E-I-O
+<br>And on his farm he had a cow
+<br>E-I-E-I-O
+<br>With a moo-moo here
+<br>And a moo-moo there
+<br>Here a moo, there a moo
+<br>Everywhere a moo-moo
+<br>Old MacDonald had a farm
+<br>E-I-E-I-O 
+</p>
+<h1>The Grand Old Duke of York</h1>
+<p>
+<br>Oh, the grand old Duke of York,
+<br>He had ten thousand men,
+<br>He marched them up to the top of the hill,
+<br>And he marched them down again
+<br><br>
+<br>And when they were up they were up.
+<br>And when they were down they were down
+<br>And when they were only halfway up,
+<br>They were neither up nor down
+</p>
+<h1>Jack and Jill</h1>
+<p class="bottomcolor"><br>Jack and Jill went up the hill,
+<br>To fetch a pail of water.
+<br>Jack fell down and broke his crown,
+<br>And Jill came tumbling after</p>
+<img src="lol.jpg" width="200px" height="250px"></img>
+</body>
+</html>
