@@ -200,7 +200,7 @@ width="600px" height="400px"/> </td>
 </tr>
 <tr>
 <td bgcolor="#C19A6B" colspan="2" align="center">
-<img src="F7.JPG" alt="Group Photo"
+<img src="F7.jpg" alt="Group Photo"
 width="600px" height="400px"/> </td>
 <td bgcolor="#C19A6B" valign="top" colspan="2">
 <h2 style="text-align:center;color:#6d3e1c;" >♡VPOP Practice♡</h2>
